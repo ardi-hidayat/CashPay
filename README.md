@@ -1,6 +1,8 @@
-# cashy_apps
+# cashpay
 
 A new Flutter project.
+-Basic Widgets
+
 
 ## Getting Started
 
